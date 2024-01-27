@@ -1,0 +1,14 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=PHP Selector
+Version=1.2
+Type=Application
+Exec=/path/to/php_selector.sh
+Icon=/path/to/php.png
+Comment=Selector of php version
+Comment=v1.1 get php versions dinamically from /etc/php
+Comment=v1.2 code reduction
+Terminal=true
+
+#copy file to show as shortcut in desktop
+#cp php_selector.desktop ~/.local/share/applications/
