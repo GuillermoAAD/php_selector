@@ -3,7 +3,9 @@
 
 # PHP SELECTOR
 
-This script allows you to select the PHP version among several installed on your system. There are two variants available: one for Linux and one for macOS.
+This script allows you to select the PHP version among several installed on your system.
+
+There are two variants available: one for Linux and one for macOS.
 
 
 ## Requirements
